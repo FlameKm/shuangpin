@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "hthousandflame@gmail.com",
+                "Name": "Yuancan"
+            }
+        ],
+        "Category": "Runners",
+        "Description": "Search using Shuangpin (Double-Pinyin) input method",
+        "Icon": "input-keyboard",
+        "License": "LGPL-2.1-or-later",
+        "Name": "Shuangpin",
+        "ServiceTypes": [
+            "KRunner/Runner"
+        ],
+        "Version": "1.0",
+        "Website": "https://github.com/flamekm/krunner-shuangpin"
+    }
+}
